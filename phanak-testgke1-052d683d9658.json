@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "phanak-testgke1",
+  "private_key_id": "052d683d96586d38f959f0ab32b978a04c2c969c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqIOJL6RyzGg6d\n9zdWNy2ouCxbpvpK4umjmBBqpVBWB7XZ7rm5WP6eDXzke8MhkIap4OVHu9Qx0aTf\nrmXi1N3yr6kEYg+rsM9PIyiWWitpdaX1rx4fztM3yJugak1afzvVMKd5bU5Ujvs0\n5BPuVRdpp/6x8SbfxT38Z5Yf2wkkn9ChkOJbZJGGYn2/dLYSNFGn1s+1Db73fU+R\notbEMzJhGipgWmbb6mmDN8FCDIq0b1unynyYLL/NujTc9yuHEZk8Zm/lrkTgkff1\nDi1VlbrhPgDVobB03uqULOdqYjyHAqgQa1ZJjnQnRcYCRTdn6KPVHtua2tkXmifp\nA0FiYlRbAgMBAAECgf8URNaxNJS2weP77fgpzWkjMM4YHUy0n1Q2qWdLTWbE2SZR\nUJ/P9UpgijrW/efBl/ZzRtgKM9aUGOYLwDtjSvkmcMcyPnyfd/E6/HVZdGS3q8yZ\n+MMeBwYjH0NrWT7eCUqXm7RYQy2R5XcIViQJwRmI/PrbOF/pSRaZe73nDbGJK091\nZFad7j0U0afuf+DO7nPr8XI/wMjF3GY5sfElRf5JS0Xl19aaDh4P7gfjGU0u1LId\nkZJXbEETnIXL4mZ/Xpd3olg6uhCgf7I8zgAY13iqyExrGkYWzEmwgF0GjfPw0xpn\nCi26LYF87Zy8hs256I45Y/Lf8AZkb3OUnTLWgQ0CgYEA0gXrhgezTHFp64xna6rH\nXi9sZsSet4pDZbH4rYeVImXqz8Q/9NodI7CehyF6iaYkiWpUEkABTf3yqLX3zeHT\njpYtGkkAPCSs746idEEFphrfDorMnzdDgWzpyd9ERhb6m/QYde6QyC5IqmFlKz4R\nBjkXe476KhOtiQvv+H1Bgh8CgYEAz18xjpz506uR26MO4xlJL3UXlX1y8jmllTcA\n4zrPQdczDXVbnG/PoSpVTHNqpo9HpIbIx20zCOXkF2rs7VM9SvhDTl0hElrVuuAe\nL2nSp5YTsaf9a/WpCLvqim5t4X59L/mM8xkMgJ03BUNhz0mi49c8ezKaLlgxFD0M\nvs5xfkUCgYEAkquft5JZHOF3XxBGiWJSqOvlgD9/uB3Ow45uZIFzHPqf6UjcgVpx\nTyNhEm3G7aohifW/kJ8ySg03EatCy30SCVnHVbv1dgsG2qV5vkZKc54AeF9mVyp4\n8kHlYx2QyIHzskXdbz6TzbjE9nfd9zz5Fqd4Rsmq2wezASpdA+Q1g3ECgYAZ8kc5\nGNsJaQYu/Q/3ykol7fitc6zWMfBN4zvxMoKMMmjo3i5APJ02BR33GtnVTUghhdvJ\nWBhynJEVfQN4Dlo07ys8utpQeZ0UbMZaGFuLLHP6XpKO14X22cxW1cpZ1IHFZuwD\n3rZ5wTIJLo0maog/Ccc/gu1XryE07w6RMTNyIQKBgQCa/AtZzKt0Q8jePeHrzhxF\nASsoCjWeqoQUhLOdcciFaL2v1HbB2JNW4XVzWnrbgn7DYLOXy8xUdD076FTJSH9c\nrlDKygg0m/vobFlwlEVb59r/ZbhRGpuV3Z4OLN5W5KWNI8Lg8BjYYwfVECdAkdQu\nwJEMXyo2jupr70lehSwi/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "phanak-service1@phanak-testgke1.iam.gserviceaccount.com",
+  "client_id": "116056663885026383317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phanak-service1%40phanak-testgke1.iam.gserviceaccount.com"
+}
