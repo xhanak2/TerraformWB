@@ -47,19 +47,12 @@ variable "gke_num_nodes" {
 #  description = "json secret to GCP"
 #}
 
-# VPC
-resource "google_compute_network" "vpctest2" {
-  name                    = "${var.project_id}-vpctest2"
-  auto_create_subnetworks = "false"
-}
+# service account
+
 
 resource "google_service_account" "service_account" {
   account_id   = "service-account-test1"
   display_name = "Service Account-test1"
-}
-output "region" {
-  value       = var.region
-  description = "region"
 }
 
 
