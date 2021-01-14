@@ -50,10 +50,21 @@ variable "gke_num_nodes" {
 # service account
 
 
-resource "google_service_account" "service_account" {
+resource "google_service_account" "service_account_test1" {
   account_id   = "service-account-test1"
   display_name = "Service Account-test1"
 }
 
+
+resource "google_service_account" "service_account_test2" {
+  account_id   = "service-account-test2"
+  display_name = "Service Account-test2"
+}
+
+
+resource "google_service_account" "service_account_test3" {
+  account_id   = "service-account-test3"
+  display_name = "Service Account-test3"
+}
 
 
